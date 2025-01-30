@@ -1,0 +1,3 @@
+(7006, 'chinmayi', 'pkgantayat', 'F', '2022-2026', 'CSE', '1234567890', 'chinu')
+(6216, 'bhumi', None, None, '2022-2026', 'CSE', None, 'bhumi')
+(9407, 'nidhi', None, None, '2022-2026', 'CSE', None, 'nandu')
